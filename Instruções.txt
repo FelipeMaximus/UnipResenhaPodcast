@@ -15,20 +15,19 @@ O prazo limite para conclusão da resenha e compartilhamento do arquivo para cor
 No arquivo Word, o aluno deverá informar seu nome, turma e RA no local indicado.
 
 Resenha do PodCast NerdTech 19 - Profissão programador 3.0
-*  URL: https://jovemnerd.com.br/nerdcast/nerdtech/profissao-programador-3-0/
-*  Mínimo de 15 linhas, máximo de 30 (linha de separação dos parágrafos não será contada)
-*  Tópicos a serem abordados (sob a perspectiva do PodCast):
-   *  Designers (FrontEnd) vs Programadores (BackEnd)
-   *  Por onde (tecnologia) começar os estudos? Por que? Como estudar?
-   *  Discorra sobre a(s) principal(is) característica(s) para ser um bom programador
+    * URL: https://jovemnerd.com.br/nerdcast/nerdtech/profissao-programador-3-0/
+    * Mínimo de 15 linhas, máximo de 30 (linha de separação dos parágrafos não será contada)
+    * Tópicos a serem abordados (sob a perspectiva do PodCast):
+        - Designers (FrontEnd) vs Programadores (BackEnd)
+        - Por onde (tecnologia) começar os estudos? Por que? Como estudar?
+        - Discorra sobre a(s) principal(is) característica(s) para ser um bom programador
 
 Total de pontos do trabalho na nota do segundo bimestre: 3 pontos
 Distribuição dos pontos:
-*  Disponibilização do trabalho no GitHub do aluno - 0.6 ponto
-*  Resenha do PodCast - 0.8 ponto para cada tópico abordado (2.4 pontos no máximo)
+    * Disponibilização do trabalho no GitHub do aluno - 0.6 ponto
+    * Resenha do PodCast - 0.8 ponto para cada tópico abordado (2.4 pontos no máximo)
 
 No caso de eu encontrar resenhas idênticas (ou mesmo muito similares, segundo a minha 
 avaliação), todas as ocorrências receberão a nota ZERO no trabalho, inclusive a original
 que serviu de modelo para as demais.
-
 

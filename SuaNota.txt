@@ -1,0 +1,10 @@
+Total de pontos do trabalho na nota do segundo bimestre: 3 pontos
+
+Distribuição dos pontos:
+*  Fork do repositório e compartilhamento com o professor
+*  Tópicos a serem abordados (sob a perspectiva do PodCast):
+   *  Designers (FrontEnd) vs Programadores (BackEnd)
+   * Por onde (tecnologia) começar os estudos? Por que? Como estudar?
+   * Discorra sobre a(s) principal(is) característica(s) para ser um bom programador
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Pontuação total: 
